@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
-	<Configuration uuid="d97dd824-8a41-47c1-8f5a-c36e6bfb3780">
+	<Configuration uuid="08967f5c-f5e3-4e01-ac9c-a0392eebf3d0">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>b83ae6e5-8ed5-4a94-b9b6-6d525337f3e2</xr:ObjectId>
+				<xr:ObjectId>b47993dd-0330-49a0-b8dd-c02a1b50c237</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>a23c5f4a-fffe-4b20-96e1-d882c72efb3d</xr:ObjectId>
+				<xr:ObjectId>5749500d-2a53-4fdd-a225-7fdb15037247</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>6719433b-271e-4b4e-acbc-495baae84303</xr:ObjectId>
+				<xr:ObjectId>9d9f0f80-0a29-481f-8b9a-09c83f7aa131</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>edc43961-b3d9-4fa9-9625-b70b1ab4e663</xr:ObjectId>
+				<xr:ObjectId>ba9484cc-a317-4a56-94d8-9adbc9fb657b</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>92a5c1fd-0cf8-4a8e-a686-3d702759add1</xr:ObjectId>
+				<xr:ObjectId>f14a08c3-ac0d-4fa9-a7b9-f8955e0550ef</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>ba1a5537-6fdb-4377-808f-31077e280e13</xr:ObjectId>
+				<xr:ObjectId>853b8dde-2c37-464f-a43e-addf9640f2fe</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>88055504-3676-4ee3-ae3c-9e5f0e4316f5</xr:ObjectId>
+				<xr:ObjectId>f2fb4bf5-93f7-485a-9e32-5ea119114262</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -245,6 +245,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>Номенклатура</Catalog>
+			<Enum>ТипыНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
